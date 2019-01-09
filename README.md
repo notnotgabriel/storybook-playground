@@ -1,6 +1,6 @@
 ## Storybook playground with create-react-app
 
-Made for me to facilitate the development for my components.
+Made for me to facilitate the development of my components.
 
 ### `npm start`
 
